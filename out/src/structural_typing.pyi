@@ -1,7 +1,7 @@
 from collections.abc import Iterable
 from typing import Protocol, TypeVar
 
-Number = TypeVar('Number', float, int)
+Number = TypeVar("Number", float, int)
 
 class Operation(Protocol):
     @classmethod

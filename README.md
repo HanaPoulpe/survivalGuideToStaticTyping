@@ -8,6 +8,7 @@ Talk written for PyLadies 2023
 * `src/structural_typing`: Example on how to use Structural typing in Python
 * `src/best_practices`: Best practices on how to declare functions with type hints
 * `src/typeguards`: Demonstration of Python dynamic typing tools
+* `src/self_type`: Demonstration of Python3.11 `Self` type
 * `out/*`: Example of stubber files
 * `pyproject.toml`: Minimal `pyproject` configuration with MyPy
 * `presentation.odp`: Presentation slides
